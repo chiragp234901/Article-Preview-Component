@@ -175,7 +175,7 @@ main{
     grid-column: 5;
  }
 
- #icons .shareIcon{
+ #icons #shareIcon{
     visibility: hidden;
  }
 
